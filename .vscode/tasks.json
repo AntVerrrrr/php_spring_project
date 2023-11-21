@@ -11,9 +11,7 @@
     "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
     
     },
-    
      
-    
     "args": ["http://localhost:8088/spring_project/${fileBasename}"]
     
     }
