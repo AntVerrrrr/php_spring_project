@@ -7,7 +7,7 @@
     "command": "chrome",
     
     "windows": {
-    
+    // 집에가서 크롬 경로 설정해주기
     "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
     
     },
